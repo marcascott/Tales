@@ -1,0 +1,5 @@
+Any "common" or joint datasets go here
+Ok, i added the file LaDayW7to50.dta, which has now the cumulative cases added to the Cases. The cumulative cases are provided together 
+with the cumulative cases rates, the two vars are "CumCases" "CumCasesRate". I think that's what you need. ONS do not provide the cases rates (at least, i couldn't find them)
+but the cumulatives cases are simply the cases added over time, so i think retrieving the cases rates could be computed from them.
+They have re-organised the sites, making it more difficult to get what we want now!

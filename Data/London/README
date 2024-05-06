@@ -1,0 +1,13 @@
+London Datasets go here
+MSOA (N=983) weekly rolling totals for positive COVID-19 cases with convention weekMSOA_19_03.dta being the first week ending 19 March. 
+The naming convention follows: weekMSOA_19_03.dta,weekMSOA_20_03.dta, etc..
+with the date being the last day of first week included in the data. There are 6 Stata files so far in total. I'll start updating from Tuesday 17 onwards to update the list.
+Ok,
+I have now added daily positive cases in Local authorities (n=33) from week 8 to week 45 (Feb 23 to Nov 8), the file is: LaDayW8t45.dta.
+Also,
+have added a lookup file, "LookupLAMSOA.dta", going from Local authority to MSOA (n=983)
+I add now 'age.dta' that as all ages with with pop mid 2018 associated, so we can get all pop 2018 by adding over all ages.
+
+[today, Sun 27th 20] i added the weekMSOA_22_03_latest. This is all cases at MSOA up the the 20th of Dec. I also added LA (local authority) daily data up to today (in WeekLaDay8to52).
+[today, Thurs 31st 20] I uploaded a correct weekMOSA_22_03_cor which follows much more closely the labelling of the previously used weekMSOA_22_03..which was very old (going to week 
+44 only. This one goes to week 51. I also noted the one uploaded on Sunday (weekMSOA_22_03_latest) was actually on 21_03..i did terrible job on Sunday!!
